@@ -14,7 +14,7 @@
 <template>
   <div class="container shifted">
     <h1 class="h1">
-      AWS Amplify Vue Sample
+      Vital
     </h1>
 
     <div class="section">
